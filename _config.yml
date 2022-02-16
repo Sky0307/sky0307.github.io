@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Sky's Portfolio"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Sky"
+subtitle                 : "Subtitle"
+name                     : "Jet Xuen"
 description              : "JetIntheSky."
 url                      : "https://jetinthesky.com"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Sky0307/minimal-mistakes"
+baseurl                  : "/"
+repository               : "Sky0307/sky0307.github.io"
 teaser                   : "https://media.giphy.com/media/NUsKoYiGm1RPHl1eWM/giphy.gif"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : " "
+masthead_title           : "Masthead Title"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
